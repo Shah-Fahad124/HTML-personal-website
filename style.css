@@ -3,14 +3,13 @@ nav li {
     padding: auto;
     margin: 20px;
     list-style: none;
-    margin-top: 0px;
-
+    margin-top: 20px;
 }
 
-/* #space{
-    width: 40px;
-    border: none;
+.sign-up{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 50vh;
 }
-#d-space{
-    border: none;
-} */
